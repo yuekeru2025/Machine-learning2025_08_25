@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+matplotlib
+seaborn # 添加这一行
+sympy
+plotly
